@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="label_hello_fill_in_all_the_information">Please enter your all info</string>
+    <string name="hint_your_name">Your Name</string>
+    <string name="hint_your_age">Your age</string>
+    <string name="hint_job_title">Job title</string>
+    <string name="hint_your_gender">Your gender</string>
+    <string name="label_save">Save</string>
+    <string name="labal_info_user_in_db">Information all user in database</string>
+</resources>
